@@ -26,6 +26,15 @@
 *.a
 *.lib
 
+#Boost include dirs
+include/boost/*
+include_private/boost/*
+
+#Binaries
+x64/*
+x86/*
+.vs/*
+
 # Executables
 *.exe
 *.out
